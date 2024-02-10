@@ -76,10 +76,6 @@ const cats = [{
     'description': '',
   }];
   
-  const imageCollection = {
-    flowers, cats, cars,
-  };
-  
   export const results = [
     { name: 'Аня', stepsCount: 16 },
     { name: 'Вася', stepsCount: 12 },
